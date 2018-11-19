@@ -1,0 +1,55 @@
+chefdk 0.18.30
+
+Component                            Installed Version   Version GUID                                                                                                                             
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+bundler                              0.18.30             
+cacerts                              2016-04-20          md5:782dcde8f5d53b1b9e888fdf113c42b9                                                                                                     
+chef-dk                              local_source        path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder                             
+chef-dk-appbundle                    local_source        path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files               
+chef-dk-cleanup                      0.18.30             
+chef-dk-complete                     0.18.30             
+chef-dk-env-customization            0.18.30             
+chef-dk-gem-binding_of_caller        0.7.2               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-byebug                   9.0.5               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-cookstyle                0.0.1               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-debug_inspector          0.0.2               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-dep-selector-libgecode   1.3.1               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-dep_selector             1.0.4               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-ffi                      1.9.14              path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-ffi-rzmq                 2.0.4               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-ffi-yajl                 2.3.0               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-hitimes                  1.2.4               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-json                     1.8.3               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-libyajl2                 1.2.0               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-mini_portile2            2.1.0               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-nio4r                    1.2.1               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-nokogiri                 1.6.8               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-pkg-config               1.1.7               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-ruby-prof                0.16.2              path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-ruby-shadow              <skip>              path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-gem-yajl-ruby                1.2.1               path:C:/jenkins/workspace/chefdk-build/architecture/i386/platform/windows-2008r2/project/chefdk/role/builder/omnibus/files/chef-dk-gem   
+chef-dk-powershell-scripts           0.18.30             
+config_guess                         master              git:9152ce40327b76aceb36954996a945bf5e9ae7d8                                                                                             
+delivery-cli                         master              git:d86679335580be3de22996ef294b20d525889d8d                                                                                             
+gem-permissions                      0.0.1               
+git-windows                          2.8.2               sha256:da25bc12efa864cda53dc6485c84dd8b0d41883dd360db505c026c284ef58d8e                                                                  
+libarchive                           3.1.2               md5:efad5a503f66329bb9d2f4308b5de98a                                                                                                     
+libffi                               3.2.1               md5:83b89587607e3eb65c70d361f13bab43                                                                                                     
+libiconv                             1.14                md5:e34509b1623cec449dfeb73d7ce9c6c6                                                                                                     
+liblzma                              5.2.2               md5:7cf6a8544a7dae8e8106fdf7addfa28c                                                                                                     
+libxml2                              2.9.4               md5:ae249165c173b1ff386ee8ad676815f5                                                                                                     
+libxslt                              1.1.29              md5:a129d3c44c022de3b9dcf6d6f288d72e                                                                                                     
+libyaml                              0.1.6               md5:5fe00cda18ca5daeb43762b80c38e06e                                                                                                     
+libzmq4x-windows                     1.0.21              md5:f75bb49580c7563f890d1fcfdd415553                                                                                                     
+openssl                              1.0.1t              md5:9837746fcf8a6727d46d22ca35953da1                                                                                                     
+openssl-customization                0.18.30             
+preparation                          1.0.0               
+ruby                                 2.3.1               sha256:b87c738cb2032bf4920fef8e3864dc5cf8eae9d89d8d523ce0236945c5797dcd                                                                  
+ruby-windows-devkit                  4.7.2-20130224      md5:9383f12958aafc425923e322460a84de                                                                                                     
+rubygems                             0.18.30             
+rubygems-customization               0.18.30             
+rust                                 1.9.0               sha256:df2dfd8a455769c183f764b109786fb96ecd6af2a10912e86342d9d4df16ea82                                                                  
+rust-uninstall                       0.0.1               
+shebang-cleanup                      0.0.2               
+version-manifest                     0.0.1               
+zlib                                 1.2.8               md5:44d667c142d7cda120332623eab69f40                                                                                                     
